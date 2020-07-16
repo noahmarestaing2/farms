@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/farms/static/css/main.5f361e03.chunk.css",
-    "main.js": "/farms/static/js/main.40014ee7.chunk.js",
-    "main.js.map": "/farms/static/js/main.40014ee7.chunk.js.map",
-    "runtime-main.js": "/farms/static/js/runtime-main.18c59ce7.js",
-    "runtime-main.js.map": "/farms/static/js/runtime-main.18c59ce7.js.map",
-    "static/js/2.e3883bac.chunk.js": "/farms/static/js/2.e3883bac.chunk.js",
-    "static/js/2.e3883bac.chunk.js.map": "/farms/static/js/2.e3883bac.chunk.js.map",
-    "index.html": "/farms/index.html",
-    "precache-manifest.e0fa8bd2f3b880c5ddec55fff27039ff.js": "/farms/precache-manifest.e0fa8bd2f3b880c5ddec55fff27039ff.js",
-    "service-worker.js": "/farms/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/farms/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e3883bac.chunk.js.LICENSE.txt": "/farms/static/js/2.e3883bac.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/farms/static/media/logo.5d5d9eef.svg"
+    "main.css": "/personalwebsite/static/css/main.5f361e03.chunk.css",
+    "main.js": "/personalwebsite/static/js/main.8f96a3d9.chunk.js",
+    "main.js.map": "/personalwebsite/static/js/main.8f96a3d9.chunk.js.map",
+    "runtime-main.js": "/personalwebsite/static/js/runtime-main.4b84688a.js",
+    "runtime-main.js.map": "/personalwebsite/static/js/runtime-main.4b84688a.js.map",
+    "static/js/2.ba79406c.chunk.js": "/personalwebsite/static/js/2.ba79406c.chunk.js",
+    "static/js/2.ba79406c.chunk.js.map": "/personalwebsite/static/js/2.ba79406c.chunk.js.map",
+    "index.html": "/personalwebsite/index.html",
+    "precache-manifest.1440d4a4d0749c0abffa0e1387f8d459.js": "/personalwebsite/precache-manifest.1440d4a4d0749c0abffa0e1387f8d459.js",
+    "service-worker.js": "/personalwebsite/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/personalwebsite/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ba79406c.chunk.js.LICENSE.txt": "/personalwebsite/static/js/2.ba79406c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/personalwebsite/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.18c59ce7.js",
-    "static/js/2.e3883bac.chunk.js",
+    "static/js/runtime-main.4b84688a.js",
+    "static/js/2.ba79406c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.40014ee7.chunk.js"
+    "static/js/main.8f96a3d9.chunk.js"
   ]
 }
